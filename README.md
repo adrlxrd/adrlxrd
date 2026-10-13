@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @adrlxrd
 - 👀 I’m interested in swimming,chess,and A.I;
-- 🌱 I’m currently learning C++,HTML,python,and JS;
 - 📫 Reach me @discord in @adrlxrd
 
 <!---
